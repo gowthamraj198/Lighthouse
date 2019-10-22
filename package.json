@@ -1,0 +1,21 @@
+{
+  "name": "lighthouse1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test1.js --reporter mochawesome --reporter-options reportDir=test_reports ,reportFilename=result.html"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "chalk": "2.4.2",
+    "chrome-launcher": "0.11.2",
+    "cli-table": "0.3.1",
+    "lighthouse": "5.5.0",
+    "mocha": "6.2.1",
+    "mocha-logger": "1.0.6",
+    "mochawesome": "^4.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
