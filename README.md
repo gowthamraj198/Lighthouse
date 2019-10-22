@@ -14,5 +14,3 @@ Run tests by running the command
 Note:
 If you dont want to run using mochawesome reports, run the command:
 - `mocha test/test1.js`
-
-
