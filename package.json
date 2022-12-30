@@ -12,7 +12,7 @@
     "chrome-launcher": "0.11.2",
     "cli-table": "0.3.1",
     "lighthouse": "5.5.0",
-    "mocha": "6.2.1",
+    "mocha": "10.2.0",
     "mocha-logger": "1.0.6",
     "mochawesome": "^4.1.0"
   },
